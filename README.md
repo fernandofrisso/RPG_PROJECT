@@ -64,7 +64,7 @@ $ npm install
 * [npm](https://www.npmjs.com/) - Gerenciador dependências
 
 ## Funcionalidade
-Abaixo estão as funcionalidades disponíves do Financial System. 
+Abaixo estão as funcionalidades disponíves do RPG_PROJECT. 
 
 :heavy_check_mark: Possibilidade de movimentar o avatar na parte delimitada do mapa, utilizando as setas de comando.
 
